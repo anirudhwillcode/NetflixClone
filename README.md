@@ -2,9 +2,9 @@
 
 [Live Demo](link_to_live_demo)
 
-![Netflix Clone](Screenshot 2023-12-02 004351.png)
 
-This project is a Netflix clone created as part of [describe_the_purpose_or_learning_goal_of_the_project].
+
+This project is a Netflix clone
 
 ## Table of Contents
 
