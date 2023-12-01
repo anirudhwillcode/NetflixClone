@@ -22,17 +22,16 @@ The Netflix Clone project is aimed at recreating the front-end of the popular st
 
 ## Features
 
-- User authentication and login functionality
-- Browse movies and TV shows
-- Watch trailers and previews
-- Add movies to watchlist
-- Responsive design for various devices
+- User authentication and login functionality (coming soon)
+- Browse movies and TV shows(coming soon)
+- Watch trailers and previews(coming soon)
+- Add movies to watchlist(coming soon)
+- Responsive design for various devices 
 
 ## Technologies Used
 
 - HTML5 & CSS3
-- JavaScript (React, Node.js, etc.)
-- [Other technologies used in the project]
+
 
 ## Installation
 
