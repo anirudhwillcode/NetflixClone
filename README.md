@@ -1,6 +1,6 @@
 # Netflix Clone
 
-[Live Demo](link_to_live_demo)
+[Live Demo](https://anirudhwillcode.github.io/NetflixClone/)
 
 <img src="https://github.com/anirudhwillcode/NetflixClone/blob/main/yt.png">
 
