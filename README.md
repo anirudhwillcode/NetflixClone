@@ -2,9 +2,9 @@
 
 [Live Demo](link_to_live_demo)
 
+![Netflix Clone](link_to_your_project_screenshot.png)
 
-
-This project is a Netflix clone
+This project is a Netflix clone created as part of 
 
 ## Table of Contents
 
