@@ -2,7 +2,7 @@
 
 [Live Demo](link_to_live_demo)
 
-![Netflix Clone](link_to_your_project_screenshot.png)
+<img src="https://github.com/anirudhwillcode/NetflixClone/blob/main/yt.png">
 
 This project is a Netflix clone created as part of [describe_the_purpose_or_learning_goal_of_the_project].
 
